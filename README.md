@@ -47,3 +47,6 @@ The app is intended for users who want to improve their meal planning, try new r
 
 ![notif](https://github.com/user-attachments/assets/a4cc159f-d8b5-4685-9836-f38c40361e53)
 
+![ana](https://github.com/user-attachments/assets/3f7cbc40-1698-4d99-86e6-14faa9c144cb)
+
+
