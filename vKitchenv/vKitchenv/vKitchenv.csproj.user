@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="DodajRecept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="First.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IstorijaKartica.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="IstorijaRecepata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Notifikacije.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PregledProfila.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Prijava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Recepti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReceptKartica.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Registracija.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UrediRecept.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
